@@ -1,0 +1,19 @@
+{
+  "name": "aulao-nodejs-fs-club",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoalvesdev/aulao-nodejs-fs-club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoalvesdev/aulao-nodejs-fs-club/issues"
+  },
+  "homepage": "https://github.com/gustavoalvesdev/aulao-nodejs-fs-club#readme"
+}
