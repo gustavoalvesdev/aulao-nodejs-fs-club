@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gustavoalvesdev/aulao-nodejs-fs-club/issues"
   },
-  "homepage": "https://github.com/gustavoalvesdev/aulao-nodejs-fs-club#readme"
+  "homepage": "https://github.com/gustavoalvesdev/aulao-nodejs-fs-club#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
 }
