@@ -33,4 +33,5 @@ fs.readFile(path.join(__dirname, 'test', 'test.txt'), 'utf8', (error, data) => {
         return console.log('Erro: ', error);
     }
     console.log(data);
+    // 44:42
 });  
